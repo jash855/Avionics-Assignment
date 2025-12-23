@@ -1,0 +1,5 @@
+dc motor with encoder position control:
+
+subpart a- https://www.tinkercad.com/things/7WmpnxmBNZl-part-a?sharecode=E2xv0WJDwYW25qr9h_d1mZsZdV8vLeQ2DMGLVrdkSjo
+
+subpart b-https://www.tinkercad.com/things/iMlQc5dGFHb-part-b?sharecode=EN-63zjlPZ1ItMeBSxYLCbF-WAmwYFZ0dgaB8nmssIo
